@@ -17,3 +17,5 @@ What needs to be done is this. Make a Visual Studio project, link hge181/lib/vc 
 
 For some reason hgetut02.exe is picked up by my antivirus hence I could not push it for some reason. O well not that important. If you can find another engine that would be better this 2d one seems kinda old. If you can get it to work though push it on back and let me know pronto.
 -Allan
+
+We also have other choices
