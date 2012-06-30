@@ -18,4 +18,7 @@ What needs to be done is this. Make a Visual Studio project, link hge181/lib/vc 
 For some reason hgetut02.exe is picked up by my antivirus hence I could not push it for some reason. O well not that important.
 -Allan
 
-Never mind I am much more comfortable with this engine. Seems nice. It is old but it seems to be powerful
+Never mind I am much more comfortable with this engine. Seems nice. It is old but it seems to be powerful.
+
+Make sure to go through the tutorials. They are Visual 6, so they need to be converted but it works fine, just make sure that you place hge.dll in the directory.
+-Allan
