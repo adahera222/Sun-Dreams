@@ -24,3 +24,19 @@ Make sure to go through the tutorials. They are Visual 6, so they need to be con
 -Allan
 
 I slept on the engine, and I believe we should realy do everything with unity which is what we were doing before with my other friend. I think hge is more complicated. What is more interesting to me is making assets and doing things in a fashion that takes less time, and the UNITY engine is going to help us do that. We had already made part of a 3d game with my friend. I will work with him to get git set up and that we we can work with the already made 3d progress we made. In the meanwhile get organized with folders and install unity from http://unity3d.com/unity/download/
+
+
+Sofware Team Rating System    
+
+Do you use source control?
+    Can you make a build in one step?
+    Do you make daily builds?
+    Do you have a bug database?
+    Do you fix bugs before writing new code?
+    Do you have an up-to-date schedule?
+    Do you have a spec?
+    Do programmers have quiet working conditions?
+    Do you use the best tools money can buy?
+    Do you have testers?
+    Do new candidates write code during their 		interview?
+    Do you do hallway usability testing? 
